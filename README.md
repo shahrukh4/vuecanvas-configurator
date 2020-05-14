@@ -1,24 +1,20 @@
 # canvas
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+`git clone https://github.com/shahrukh4/vuecanvas-configurator.git`
 
-### Compiles and minifies for production
-```
-npm run build
-```
+`cd vuecanvas-configurator`
 
-### Lints and fixes files
-```
-npm run lint
-```
+`npm install`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`npm run serve`
+
+
+Goto following route
+
+`http://localhost:8080/bike`
+
+### For Bike/Product Configrator
+
+- ``
